@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @arich719
-- 👀 I’m interested in vinyl records, new technology, bike riding, and creating things. 
-- 🌱 I’m currently learning the MERN stack. 
+- 👋 Hi, I’m Anthony Richardson
+- 👀 I’m interested in vinyl records, new technology, bike riding, photo and videography, and creating things. 
+- 🌱 I’m currently learning the FrontEnd Development. 
 - 💞️ I’m looking to collaborate on websites and apps.
 - 📫 How to reach me arich719@gmail.com
 
