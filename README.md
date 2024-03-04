@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the Web &n app Development. 
 - 💞️ I’m looking to collaborate on websites and apps.
 - 📫 How to reach me arich719@gmail.com
+-
 
 <!---
 arich719/arich719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
